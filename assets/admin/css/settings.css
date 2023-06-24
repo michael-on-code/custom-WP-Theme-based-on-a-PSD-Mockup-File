@@ -1,0 +1,17 @@
+.coalition-setting-page-container .form-fields input,
+.coalition-setting-page-container .form-fields textarea,
+.coalition-setting-page-container .form-fields select
+{
+    width: 400px;
+}
+.coalition-media-gallery-preview-container{
+    width:200px;
+}
+.coalition-media-gallery-preview-container img{
+    max-height: 150px;
+    max-width: 150px;
+    margin-bottom: 10px;
+}
+.coalition-media-gallery-preview-container img.is-hidden{
+    display:none
+}
